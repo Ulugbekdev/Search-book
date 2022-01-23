@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Ulugbekdev/Search-book.git/static/css/main.e6c13ad2.css",
-    "main.js": "/Ulugbekdev/Search-book.git/static/js/main.ae004a50.js",
-    "static/js/124.f0d4bce6.chunk.js": "/Ulugbekdev/Search-book.git/static/js/124.f0d4bce6.chunk.js",
-    "static/js/787.231e7968.chunk.js": "/Ulugbekdev/Search-book.git/static/js/787.231e7968.chunk.js",
-    "static/js/240.b6530876.chunk.js": "/Ulugbekdev/Search-book.git/static/js/240.b6530876.chunk.js",
-    "index.html": "/Ulugbekdev/Search-book.git/index.html",
-    "main.e6c13ad2.css.map": "/Ulugbekdev/Search-book.git/static/css/main.e6c13ad2.css.map",
-    "main.ae004a50.js.map": "/Ulugbekdev/Search-book.git/static/js/main.ae004a50.js.map",
-    "124.f0d4bce6.chunk.js.map": "/Ulugbekdev/Search-book.git/static/js/124.f0d4bce6.chunk.js.map",
-    "787.231e7968.chunk.js.map": "/Ulugbekdev/Search-book.git/static/js/787.231e7968.chunk.js.map",
-    "240.b6530876.chunk.js.map": "/Ulugbekdev/Search-book.git/static/js/240.b6530876.chunk.js.map"
+    "main.css": "/Search-book/static/css/main.e6c13ad2.css",
+    "main.js": "/Search-book/static/js/main.c4f1a29a.js",
+    "static/js/124.f0d4bce6.chunk.js": "/Search-book/static/js/124.f0d4bce6.chunk.js",
+    "static/js/787.231e7968.chunk.js": "/Search-book/static/js/787.231e7968.chunk.js",
+    "static/js/240.b6530876.chunk.js": "/Search-book/static/js/240.b6530876.chunk.js",
+    "index.html": "/Search-book/index.html",
+    "main.e6c13ad2.css.map": "/Search-book/static/css/main.e6c13ad2.css.map",
+    "main.c4f1a29a.js.map": "/Search-book/static/js/main.c4f1a29a.js.map",
+    "124.f0d4bce6.chunk.js.map": "/Search-book/static/js/124.f0d4bce6.chunk.js.map",
+    "787.231e7968.chunk.js.map": "/Search-book/static/js/787.231e7968.chunk.js.map",
+    "240.b6530876.chunk.js.map": "/Search-book/static/js/240.b6530876.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ae004a50.js"
+    "static/js/main.c4f1a29a.js"
   ]
 }
