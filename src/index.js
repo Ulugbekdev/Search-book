@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './component/App';
 import reportWebVitals from './reportWebVitals';
 import { Provider } from 'react-redux';
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 import { store } from './redux/reducers/store';
 import { theme } from './common/Styles/muiStylesTheme';
 import { ThemeProvider } from '@emotion/react';
@@ -11,13 +11,13 @@ import './index.css';
 
 ReactDOM.render(
     <React.StrictMode>
-        <BrowserRouter>
+        <HashRouter>
             <Provider store={store}>
                 <ThemeProvider theme={theme}>
                     <App />
                 </ThemeProvider>
             </Provider>
-        </BrowserRouter>
+        </HashRouter>
     </React.StrictMode>,
     document.getElementById('root')
 );
